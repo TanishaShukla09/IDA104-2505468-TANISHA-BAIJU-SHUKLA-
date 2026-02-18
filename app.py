@@ -1,10 +1,3 @@
-"""
-Rocket Launch Analytics Dashboard
-Python 3.9+ | pandas 1.x/2.x | PyArrow-safe
-Fixes: st.radio empty label, Timestamp ArrowInvalid, use_container_width deprecated
-NEW ADDITIONS: Input validation · Loading states · Step-by-step reveal · Session history
-               Concept explainer · CSV/JSON export · Filter presets · Sim History page
-"""
 import streamlit as st
 import pandas as pd
 import numpy as np
